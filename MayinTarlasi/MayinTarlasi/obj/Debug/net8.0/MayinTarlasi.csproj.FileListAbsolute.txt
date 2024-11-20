@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/bin/Debug/net8.0/MayinTarlasi
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/bin/Debug/net8.0/MayinTarlasi.deps.json
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/bin/Debug/net8.0/MayinTarlasi.runtimeconfig.json
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/bin/Debug/net8.0/MayinTarlasi.dll
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/bin/Debug/net8.0/MayinTarlasi.pdb
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.AssemblyInfo.cs
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.dll
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/refint/MayinTarlasi.dll
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.pdb
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/MayinTarlasi.genruntimeconfig.cache
+/Users/svage/RiderProjects/MayinTarlasi/MayinTarlasi/obj/Debug/net8.0/ref/MayinTarlasi.dll
